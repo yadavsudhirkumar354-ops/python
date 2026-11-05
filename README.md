@@ -61,4 +61,16 @@ This is my first commit for the personal portfolio project. I have added my intr
 
 Through this assignment, I aim to understand version control and learn how developers collaborate and manage their projects using GitHub.
 
-## Conclusion
+## My Projects
+
+### 1. IPL Ticket Booking Website
+Developed a responsive IPL ticket booking
+website using HTML, CSS, and JavaScript.
+
+### 2. FoodCompare
+Created a food comparison website to compare
+restaurant prices and find affordable food options.
+
+### 3. Personal Portfolio
+Building a personal portfolio website to
+showcase my skills and achievements.
