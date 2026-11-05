@@ -15,5 +15,10 @@ new technologies.
 - Python
 
 
+# My skills
+-Programming
+-Promblem Solving 
+-Git And GitHub
+-Software Development
 
 
